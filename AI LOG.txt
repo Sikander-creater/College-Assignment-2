@@ -1,0 +1,15 @@
+# AI Collaboration Log
+
+**My AI Prompt:**
+"Make me a very short Python script to read `my_data.txt` (shopping list), print the lines with numbers, and show some basic stats (lines, words, etc.). Also create AI log and reflection in txt."
+
+**What the AI Helped Me With:**
+- Creating a small script that works with my shopping list file.
+- Showing how to print each item with line numbers.
+- Adding simple statistics like line count, word count, and longest line.
+- Preparing AI log and reflection files in the right format.
+
+**What I Learned:**
+- How to open and read a text file safely with `with open()`.
+- How to use `enumerate()` for numbering lines in the output.
+- How to calculate basic statistics from text files with short Python code.
