@@ -1,0 +1,10 @@
+# My Reflection
+
+What surprised me about working with files:
+It was easy to read my shopping list file, and Python could automatically number and analyze each line.
+
+How this connects to business:
+Many tasks in business involve handling lists or logs. Knowing how to quickly process files can save time and make data more useful.
+
+Next thing I want to learn:
+I want to learn how to read CSV or Excel files and calculate things like totals or averages for shopping or budget tracking.
